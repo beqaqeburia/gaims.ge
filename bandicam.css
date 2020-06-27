@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+body{
+background:url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/129325364/original/afaddcb9d7dfaaf5bff7ef04101935814665ac16/design-an-attractive-background-for-your-website.png);
+background-size:100%;
+
+}
+
+.didi{
+	
+	width:200px;
+	height:500px;
+	margin-top:20px;
+	margin-right:20px;
+	background-color:white;
+	border: 2px solid #150AF1;
+	border-radius:20px;
+	
+}
+.pataraujra{
+	
+	width:197px;
+	height:34px;
+	margin-top:0px;
+	margin-right:10px;
+	background-color:#780505;
+	border: 2px solid #F2F2F2;
+	text-align:center;
+	color:#FBFAFA;
+	border-radius:20px;
+	z-index:1;
+}
+.gaims{
+	font-size:30px;
+	margin-top:-4px;
+	color:#FBFAFA;
+	font-family: 'Russo One', sans-serif;
+	
+	cursor:pointer;
+	
+	
+}
+title{
+	font-family: 'Russo One', sans-serif;
+}
+
+
+.fa{
+	font-size:25px;
+	margin-right:10px;
+	margin-bottom:5px;
+	line-height:5px;
+	cursor:pointer;
+	text-align:3px;
+	
+}
+.gaims:hover{
+	color:##ED501C;
+}
+.creckpograms{
+	background-color:#C4DFD4;
+	font-family: 'Russo One', sans-serif;
+	border: 2px solid #C4DFD4;
+	width:196px;
+	height:24px;
+	cursor:pointer;
+}
+
+.potoshop{
+	
+	color:red;
+	margin-bottom:20px;
+	margin-right:20px;
+	font-family: 'Acme', sans-serif;
+	cursor:pointer;
+	}
+.xazi{
+	border: 2px solid #C4DFD4;
+	width:196px;
+	height:;
+}
+#button1{
+	width:196px;
+	height:34px;
+	border-radius:0px;
+	margin-top:10px;
+	font-size:15px;
+}
+
+.gaims:hover{
+	color:#ED501C;
+}
+.creckpograms:hover{
+	color:#ED501C;
+}
+.fotoshop1{
+	color:black;
+}
+.bandicam1{
+	color:#ED501C;
+}
+.film:hover{
+	color:#ED501C;
+}
+a{
+	color:transparent ;
+}
+.fotoshop1:hover{
+	color:#ED501C;
+}
+.fotoujra{
+	background:url( https://dhwwtar19mmjy.cloudfront.net/apowercom/wp-content/uploads/2014/06/bandicam.jpg.webp);
+	background-size:100%;
+	width:700px;
+	height:500px;
+	margin-top:20px;
+	margin-left:100px;
+	margin-bottom:200px;
+	background-color:white;
+	border: 2px solid #150AF1;
+	border-radius:20px;
+}
+.udidesi{
+	width:1000px;
+	height:1000px;
+	display:flex;
+}
+.bandicam1{
+	color:#ED501C;
+}
+.film{
+	color:black;
+}
